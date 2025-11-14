@@ -932,3 +932,285 @@ transition: .7s;
 .four6{
   margin-top: 122px;
 }
+.fourFlex{
+  display: flex;
+  margin-top: 100px;
+  column-gap: 30px;
+}
+.four7{
+  width: 688px;
+  height: 398px;
+  background:url(imges/113.png) ;
+}
+.four8{
+   width: 687px;
+  height: 398px;
+  background:url(imges/114.png) ;
+}
+.four7 h5{
+font-size: 18px;
+font-weight: 500;
+color: white;
+padding-top:235px ;
+padding-left:45px ;
+}
+.four7 h4{
+  font-size:26px ;
+  font-weight:500 ;
+  color: white;
+  padding-top: 30px;
+  padding-left:45px ;
+  
+}.four9 a{
+  font-size: 14px;
+font-weight: 500;
+color: white;
+padding-top: 235px;
+padding-left: 45px;
+}
+.four9 a::after{
+ width:0px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    background-color: rgb(12, 10, 10);
+   margin-top: 20px;
+   margin-left:-83.3px ;
+}
+.four9 a:hover::after{
+  width: 50px;
+transition: .7s;
+
+
+}
+.four9{
+  margin-top: 32px;
+  
+}
+.four8 h5{
+font-size: 18px;
+font-weight: 500;
+color: #222222;
+padding-top:235px ;
+padding-left:45px ;
+}
+.four8 h4{
+  font-size:26px ;
+  font-weight:500 ;
+  color: #222222;
+  padding-top: 30px;
+  padding-left:45px ;
+  
+}.four10 a{
+  font-size: 14px;
+font-weight: 500;
+color: #222222;
+padding-top: 235px;
+padding-left: 45px;
+}
+.four10 a::after{
+ width:0px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    background-color: rgb(12, 10, 10);
+   margin-top: 20px;
+   margin-left:-83.3px ;
+}
+.four10 a:hover::after{
+  width: 50px;
+transition: .7s;
+
+
+}
+.four10{
+  margin-top: 32px;
+  
+}
+.four12{
+  width: 1510px;
+  height: 600px;
+
+  margin: 0 auto;
+}
+.fourFlex1{
+  display: flex;
+  column-gap: 30px;
+  margin-top: 62px;
+}
+.four11 h3{
+  text-align: center;
+  font-size:35px ;
+  font-weight: 400;
+  color: #222222;
+  padding-top: 83px;
+}
+.three24{
+font-weight: 700;
+}
+.three19 h4{
+  font-size: 16px;
+  font-weight:400 ;
+  color:#222222 ;
+}
+.three19 i{
+  margin-left: 300px;
+}
+.three19 h5{
+font-size: 14px;
+  font-weight:400 ;
+  color:#767676 ;
+  padding-top: 18px;
+}
+.three19 h6{
+   font-size: 16px;
+  font-weight:400 ;
+  color:#222222 ;
+  padding-top: 10px;
+}
+.three19 a{
+  font-size: 20px;
+  color: #000;
+
+}
+.three19 i{
+  margin-top: -20px;
+}
+.three20 h4{
+  font-size: 16px;
+  font-weight:400 ;
+  color:#222222 ;
+}
+.three20 i{
+  margin-left: 300px;
+}
+.three20 h5{
+font-size: 14px;
+  font-weight:400 ;
+  color:#767676 ;
+  padding-top: 18px;
+}
+.three20 h6{
+   font-size: 16px;
+  font-weight:400 ;
+  color:#222222 ;
+  padding-top: 10px;
+}
+.three20 a{
+  font-size: 20px;
+  color: #000;
+
+}
+.three20 i{
+  margin-top: -20px;
+}
+.three21 h4{
+  font-size: 16px;
+  font-weight:400 ;
+  color:#222222 ;
+}
+.three21 i{
+  margin-left: 300px;
+}
+.three21 h5{
+font-size: 14px;
+  font-weight:400 ;
+  color:#767676 ;
+  padding-top: 18px;
+}
+.three21 h6{
+   font-size: 16px;
+  font-weight:400 ;
+  color:#222222 ;
+  padding-top: 10px;
+}
+.three21 a{
+  font-size: 20px;
+  color: #000;
+
+}
+.three21 i{
+  margin-top: -20px;
+}
+.three23{
+  padding-left: 10px;
+  color: red;
+}
+.three22 h6::after{
+
+ width:42px;
+    height: 1.5px;
+    position: absolute;
+    content: "";
+    background-color: rgb(12, 10, 10);
+   margin-top: 6px;
+   margin-left:-85px ;
+}
+.three22 h4{
+  font-size: 16px;
+  font-weight:400 ;
+  color:#222222 ;
+}
+.three22 i{
+  margin-left: 300px;
+}
+.three22 h5{
+font-size: 14px;
+  font-weight:400 ;
+  color:#767676 ;
+  padding-top: 18px;
+}
+.three22 h6{
+   font-size: 16px;
+  font-weight:400 ;
+  color:#222222 ;
+  padding-top: 10px;
+}
+.three22 a{
+  font-size: 20px;
+  color: #000;
+
+}
+.three22 i{
+  margin-top: -20px;
+}
+.three19 i:hover{
+color: red;
+transition: .5s;
+}
+.three20 i:hover{
+color: red;
+transition: .5s;
+}.three21 i:hover{
+color: red;
+transition: .5s;
+}.three22 i:hover{
+color: red;
+transition: .5s;}
+.four13{
+  margin-left: -40px;
+  margin-top: -310px;
+
+}
+.four13 a{
+  font-size: 30px;
+  color: #000;
+}
+
+.four14{
+  margin-left:1425px;
+  margin-top: -30px;
+
+}
+.four14 a{
+  font-size: 30px;
+  color: #000;
+}
+.four13 a:hover{
+  color: tomato;
+  transition: .7s;
+}
+.four14 a:hover{
+  color: tomato;
+  transition: .7s;
+}
