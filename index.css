@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6,p{
 
 }
 .container{
-    width: 1407.55px;
+    width: 1410.55px;
     margin: 0 auto;
 }
 .div1{
@@ -1213,4 +1213,76 @@ transition: .5s;}
 .four14 a:hover{
   color: tomato;
   transition: .7s;
+}
+.four16{
+  margin-top: 70px;
+}
+.four15 h3{
+  font-size:35px ;
+  font-weight:400 ;
+  color:#222222 ;
+  text-align: center;
+  padding-top: 150px;
+}
+.fourFlex2{
+  display: flex;
+  margin-top:0px ;
+  column-gap: 200px;
+  margin-left: 85px;
+  margin-top: 100px;
+
+}
+.four17 img{
+margin-left: 110px;
+
+
+}
+.four17 h3{
+font-size:18px ;
+font-weight:500 ;
+color:#000000;
+padding-left:20px ;
+padding-top:30px ;
+}
+.four17 h4{
+font-size:15px ;
+font-weight:400;
+color:#767676 ;
+padding-left:0px ;
+padding-top:23px ;
+}
+.four18 img{
+margin-left: 110px;
+
+}
+.four18 h3{
+font-size:18px ;
+font-weight:500 ;
+color:#000000;
+padding-left:20px ;
+padding-top:30px ;
+}
+.four18 h4{
+font-size:15px ;
+font-weight:400;
+color:#767676 ;
+padding-left:0px ;
+padding-top:23px ;
+}.four19 img{
+margin-left: 110px;
+
+}
+.four19 h3{
+font-size:18px ;
+font-weight:500 ;
+color:#000000;
+padding-left:20px ;
+padding-top:30px ;
+}
+.four19 h4{
+font-size:15px ;
+font-weight:400;
+color:#767676 ;
+padding-left:0px ;
+padding-top:23px ;
 }
