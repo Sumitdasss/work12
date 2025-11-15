@@ -1286,3 +1286,133 @@ color:#767676 ;
 padding-left:0px ;
 padding-top:23px ;
 }
+.four20{
+  width: 1920px;
+  height: 571px;
+  background: url(imges/30.png);
+  margin: 0 auto;
+  margin-top: 106px;
+}
+.fourFlex3{
+  display: flex;
+  column-gap: 81px;
+
+}
+.four21 img{
+  margin-top: 100px;
+
+}
+.four21 h4{
+font-size: 14px;
+font-weight: 400;
+color: #222222;
+padding-top:50px ;
+line-height:26px ;
+}
+.four21 h5{
+font-size: 14px;
+font-weight: 500;
+color: #222222;
+padding-top:50px ;
+}
+.four21 h6{
+font-size: 14px;
+font-weight: 500;
+color: #222222;
+padding-top:25px ;
+}
+.four26 a{
+  font-size: 25px;
+  color: #000;
+  padding: 20px;
+}
+.four26{
+  margin-left: -20px;
+  margin-top: 55px;
+}
+.four26 a:hover{
+  color: red;
+  transition: .7s;
+}
+.four22 h3{
+  font-size: 22px;
+font-weight: 600;
+color: #222222;
+padding-top:100px ;
+}
+.four27 a{
+ font-size: 14px;
+font-weight: 500;
+color: #222222; 
+line-height: 52px;
+}
+.four27{
+  margin-top: 50px;
+}
+
+.four28 a::after{
+ width:0px;
+    height: 3px;
+    position: absolute;
+    content: "";
+    background-color: rgb(12, 10, 10);
+   margin-top: 37px;
+   margin-left:-65px ;
+}
+.four28 a:hover::after{
+  width: 50px;
+  transition: .7s;
+}
+.four29 a::after{
+ width:0px;
+    height: 2px;
+    position: absolute;
+    content: "";
+    background-color: rgb(12, 10, 10);
+   margin-top: 37px;
+   margin-left:-55px ;
+}
+ .four29 a:hover::after{ 
+  width: 45px;
+  transition: .7s;
+}
+.four30 a::after{
+ width:0px;
+    height: 2px;
+    position: absolute;
+    content: "";
+    background-color: rgb(12, 10, 10);
+   margin-top: 37px;
+   margin-left:-62px ;
+}
+ .four30 a:hover::after{ 
+  width: 55px;
+  transition: .7s;
+}
+.four31 a::after{
+ width:0px;
+    height: 2px;
+    position: absolute;
+    content: "";
+    background-color: rgb(12, 10, 10);
+   margin-top: 37px;
+   margin-left:-31px ;
+}
+ .four31 a:hover::after{ 
+  width: 25px;
+  transition: .7s;
+}
+.four32 a::after{
+ width:0px;
+    height: 2px;
+    position: absolute;
+    content: "";
+    background-color: rgb(12, 10, 10);
+   margin-top: 37px;
+   margin-left:-79px ;
+}
+ .four32 a:hover::after{ 
+  width: 70px;
+  transition: .7s;
+  
+}
