@@ -1288,7 +1288,7 @@ padding-top:23px ;
 }
 .four20{
   width: 1920px;
-  height: 571px;
+  height: 600px;
   background: url(imges/30.png);
   margin: 0 auto;
   margin-top: 106px;
@@ -1504,4 +1504,54 @@ padding-top: 50px;
 }
 .four35{
   margin-top: 32px;
+}
+.four36::after{
+
+ width:1410px;
+    height:2px;
+    position: absolute;
+    content: "";
+    background-color:#CFCDCD;
+   margin-top: 35px;
+   margin-left:0px ;
+}
+.fourFlex4{
+  display: flex;
+margin-top:70px;
+column-gap: 15px;
+
+}
+.four37 h4{
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+}
+.four38 h4{
+  font-size: 18px;
+  font-weight: 400;
+  color: #767676;
+}
+.four39 h4{
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+}
+.four40 h4{
+  font-size: 18px;
+  font-weight: 400;
+  color: #767676;
+}
+.four41 h4{
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+}
+.four39 i{
+  margin-left: 10px;
+}
+.four41 i{
+  margin-left: 10px;
+}
+.four38{
+  margin-left: 700px;
 }
