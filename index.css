@@ -511,28 +511,24 @@ padding: 25px;
   width:330px ;
   height:494px ;
   background-color:white ;
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
-            0 6px 15px rgba(0, 0, 0, 0.05);
+  
 }
 .three9{
   width:328px ;
   height:494px ;
   background-color:white;
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
-            0 6px 15px rgba(0, 0, 0, 0.05);
+   
 }
 .three10{
   width:330px ;
   height:494px ;
   background-color:white ;
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
-            0 6px 15px rgba(0, 0, 0, 0.05);
+ 
 }.three11{
   width:330px ;
   height:494px ;
   background-color:white ;
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
-            0 6px 15px rgba(0, 0, 0, 0.05);
+  
 }
 .threeFlex1{
   display: flex;
@@ -543,26 +539,22 @@ padding: 25px;
   width:330px ;
   height:494px ;
   background-color:white ;
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
-            0 6px 15px rgba(0, 0, 0, 0.05);
+  
 }.three13{
   width:330px ;
   height:494px ;
   background-color:white ;
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
-            0 6px 15px rgba(0, 0, 0, 0.05);
+   
 }.three14{
   width:330px ;
   height:494px ;
   background-color:white ;
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
-            0 6px 15px rgba(0, 0, 0, 0.05);
+ 
 }.three15{
   width:328px ;
   height:494px ;
   background-color:white;
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09),
-            0 6px 15px rgba(0, 0, 0, 0.05);
+ 
 }
 .three8 h4{
   font-size: 16px;
@@ -1554,4 +1546,62 @@ column-gap: 15px;
 }
 .four38{
   margin-left: 700px;
+}
+.two1:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}
+.two2:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}
+.two3:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}
+.two4:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}
+.three8:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three9:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three10:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three11:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three12:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three13:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three14:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three15:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}
+.four7:hover{transform: scale(1.1);
+  transition: .7s;}
+  .four8:hover{transform: scale(1.1);
+  transition: .7s;}
+  .three19:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three20:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three21:hover{
+  transform: scale(1.1);
+  transition: .7s;
+}.three22:hover{
+  transform: scale(1.1);
+  transition: .7s;
 }
