@@ -83,7 +83,7 @@ h1,h2,h3,h4,h5,h6,p{
 .one1{
   width: 1881px;
   height: 800px;
-  
+  position: relative;
   margin: 0 auto;
 }
 .one1 i{
@@ -96,8 +96,8 @@ h1,h2,h3,h4,h5,h6,p{
   
   margin-top: 100px;
   position: absolute;
-  top:350px;
-  left:-10px;
+  top:290px;
+  left:-120px;
 }
 
 
